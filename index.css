@@ -40,7 +40,7 @@ main,
 
 .scheme-picker {
     font-family: Inter-Regular; 
-    font-size: 0.75rem;
+    font-size: 0.8125rem;
     color: #111827;
     border: 1px solid #D1D5DB;
     border-radius: 6px;
@@ -48,7 +48,7 @@ main,
     width: 35%;
     white-space: normal; /* allow text to wrap */
     word-wrap: break-word;
-    min-width: 99px;
+    min-width: 106px;
 }
 
 input[type="color" i],
@@ -77,7 +77,7 @@ input[type="color"]::-webkit-color-swatch-wrapper {
 .get-scheme-btn,
 .color-code {
     font-family: Inter-Medium;
-    font-size: 0.6875rem;
+    font-size: 0.75rem;
 }
 
 .get-scheme-btn {
@@ -153,7 +153,7 @@ input[type="color"]::-webkit-color-swatch-wrapper {
 
     .get-scheme-btn,
     .color-code {
-        font-size: 0.75rem; 
+        font-size: 0.8125rem; 
     }
 
     .get-scheme-btn {
@@ -161,9 +161,9 @@ input[type="color"]::-webkit-color-swatch-wrapper {
     }
 
     .scheme-picker {
-        font-size: 0.8125rem;
+        font-size: 0.875rem;
         padding-left: 0.28em;
-        min-width: 119px;
+        min-width: 117px;
     }
 
     .code-wrapper {
